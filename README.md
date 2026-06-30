@@ -1,15 +1,25 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
-  ║  This is your GitHub PROFILE README.                          ║
-  ║  It shows on your profile because the repo is named anishc23. ║
+  ║  This is your GitHub PROFILE README (repo name: anishc23).    ║
+  ║  The header below is an ANIMATED typing SVG.                  ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
-<h1 align="center">Anish Choudhury</h1>
-<h3 align="center">Cloud &amp; DevOps · Distributed Systems</h3>
+<!-- ===================== ANIMATED TYPING HEADER ===================== -->
+<p align="center">
+  <a href="https://github.com/anishc23">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=80&lines=Anish+Choudhury"
+      alt="Anish Choudhury"
+    />
+  </a>
+</p>
 
 <p align="center">
-  <em>Computer Engineering student building toward distributed systems, cloud infrastructure &amp; DevOps.</em>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=1B6CA8&center=true&vCenter=true&width=720&height=40&lines=Cloud+%26+DevOps;Distributed+Systems;Building+from+idea+to+working+software"
+    alt="Cloud & DevOps · Distributed Systems"
+  />
 </p>
 
 <!-- ===================== STATUS BADGES ===================== -->
