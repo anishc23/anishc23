@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/anishc23">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=80&lines=Anish+Choudhury"
+      src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=42&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=80&lines=ANISH+CHOUDHURY"
       alt="Anish Choudhury"
     />
   </a>
@@ -24,7 +24,7 @@
 
 <!-- ===================== STATUS BADGES ===================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/RAIT-Mumbai-1B6CA8?style=for-the-badge" alt="CSBS@RAIT '28" />
+  <img src="https://img.shields.io/badge/CSBS @ RAIT-'28-1B6CA8?style=for-the-badge" alt="CSBS@RAIT '28" />
   <img src="https://img.shields.io/badge/Year-3rd-22D3EE?style=for-the-badge" alt="3rd Year" />
   <img src="https://img.shields.io/badge/CGPA-9.42-0B1B33?style=for-the-badge" alt="CGPA" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20%2F%20DevOps-1B6CA8?style=for-the-badge" alt="Focus: Cloud / DevOps" />
