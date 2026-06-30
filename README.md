@@ -17,14 +17,14 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=1B6CA8&center=true&vCenter=true&width=720&height=40&lines=Cloud+%26+DevOps;Distributed+Systems;Building+from+idea+to+working+software"
-    alt="Cloud & DevOps · Distributed Systems"
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&&weight=500&size=20&pause=1200&color=1B6CA8&center=true&vCenter=true&width=720&height=40&lines=Computer+Science+%26+Business+Systems+Student;Building+towards+Cloud+%26+DevOps;Learning+by+shipping+real+projects"
+    alt="CS student building toward Cloud & DevOps"
   />
 </p>
 
 <!-- ===================== STATUS BADGES ===================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CSBS @ RAIT-'28-1B6CA8?style=for-the-badge" alt="CSBS@RAIT '28" />
+  <img src="https://img.shields.io/badge/CSBS@RAIT-'28-1B6CA8?style=for-the-badge" alt="RAIT Mumbai" />
   <img src="https://img.shields.io/badge/Year-3rd-22D3EE?style=for-the-badge" alt="3rd Year" />
   <img src="https://img.shields.io/badge/CGPA-9.42-0B1B33?style=for-the-badge" alt="CGPA" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20%2F%20DevOps-1B6CA8?style=for-the-badge" alt="Focus: Cloud / DevOps" />
@@ -44,10 +44,10 @@
 
 ### About
 
-I'm a Computer Engineering undergrad at Ramrao Adik Institute of Technology, Mumbai, working toward a career in **cloud infrastructure, DevOps, and distributed systems**. I learn by building — most of my projects are full applications I take from idea to working software, picking a different technical approach each time.
+I'm a Computer Science & Business Systems undergrad at Ramrao Adik Institute of Technology, Mumbai. I learn by building — I take projects from idea to working software, picking a different technical approach each time — and I'm now channeling that into **cloud infrastructure, DevOps, and distributed systems**.
 
 - 🛠️ Currently going deep on **Linux, Docker, Kubernetes, AWS, Terraform, and CI/CD**
-- 🎮 I build **games and simulations** as a way to learn new techniques end-to-end
+- 🚀 I ship full applications end-to-end — backends, APIs, data, and the glue between them
 - 🔬 Co-authoring research on **machine learning for network intrusion detection**
 
 ---
