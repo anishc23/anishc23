@@ -1,29 +1,18 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
   ║  This is your GitHub PROFILE README.                          ║
-  ║  It only shows on your profile if the repo is named exactly   ║
-  ║  the same as your username: anishc23                          ║
-  ║                                                               ║
-  ║  TODO before publishing — replace every <ALL-CAPS> placeholder║
-  ║  and double-check the two badge links at the bottom.          ║
+  ║  It shows on your profile because the repo is named anishc23. ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ===================== HERO BANNER ===================== -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1B33,50:1B6CA8,100:22D3EE&height=200&section=header&text=Anish%20Choudhury&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=Cloud%20%26%20DevOps%20%C2%B7%20Distributed%20Systems&descSize=20&descAlignY=62"
-    alt="Anish Choudhury — Cloud & DevOps · Distributed Systems"
-  />
-</p>
+<h1 align="center">Anish Choudhury</h1>
+<h3 align="center">Cloud &amp; DevOps · Distributed Systems</h3>
 
-<!-- ===================== TAGLINE ===================== -->
 <p align="center">
-  <em>Computer Engineering student building toward distributed systems, cloud infrastructure & DevOps.</em>
+  <em>Computer Engineering student building toward distributed systems, cloud infrastructure &amp; DevOps.</em>
 </p>
 
 <!-- ===================== STATUS BADGES ===================== -->
-<!-- Optional extras: edit the values, or delete any badge you don't want. -->
 <p align="center">
   <img src="https://img.shields.io/badge/RAIT-Mumbai-1B6CA8?style=for-the-badge" alt="RAIT Mumbai" />
   <img src="https://img.shields.io/badge/Year-3rd-22D3EE?style=for-the-badge" alt="3rd Year" />
@@ -77,7 +66,6 @@ I'm a Computer Engineering undergrad at Ramrao Adik Institute of Technology, Mum
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </p>
 
-<!-- Learning next — add badges here as you pick them up: -->
 <p align="left">
   <img src="https://img.shields.io/badge/Learning-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Learning Kubernetes" />
   <img src="https://img.shields.io/badge/Learning-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="Learning AWS" />
@@ -85,12 +73,5 @@ I'm a Computer Engineering undergrad at Ramrao Adik Institute of Technology, Mum
 </p>
 
 ---
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anishc23&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=1B6CA8&text_color=c9d1d9&bg_color=0B1B33" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishc23&layout=compact&hide_border=true&title_color=22D3EE&text_color=c9d1d9&bg_color=0B1B33" alt="Top languages" />
-</p>
 
 <p align="center"><sub>Thanks for stopping by — always happy to talk infrastructure, simulations, or systems.</sub></p>
