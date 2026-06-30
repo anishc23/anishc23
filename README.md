@@ -24,7 +24,7 @@
 
 <!-- ===================== STATUS BADGES ===================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/RAIT-Mumbai-1B6CA8?style=for-the-badge" alt="RAIT Mumbai" />
+  <img src="https://img.shields.io/badge/RAIT-Mumbai-1B6CA8?style=for-the-badge" alt="CSBS@RAIT '28" />
   <img src="https://img.shields.io/badge/Year-3rd-22D3EE?style=for-the-badge" alt="3rd Year" />
   <img src="https://img.shields.io/badge/CGPA-9.42-0B1B33?style=for-the-badge" alt="CGPA" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20%2F%20DevOps-1B6CA8?style=for-the-badge" alt="Focus: Cloud / DevOps" />
