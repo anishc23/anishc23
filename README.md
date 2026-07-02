@@ -44,11 +44,11 @@
 
 ### About
 
-I'm a Computer Science & Business Systems undergrad at Ramrao Adik Institute of Technology, Mumbai. I learn by building — I take projects from idea to working software, picking a different technical approach each time — and I'm now channeling that into **cloud infrastructure, DevOps, and distributed systems**.
+I'm a Computer Science & Business Systems undergrad at Ramrao Adik Institute of Technology, Mumbai. I learn by building, I take projects from idea to working software, picking a different technical approach each time, and I'm now channeling that into **cloud infrastructure, DevOps, and distributed systems**.
 
-- 🛠️ Currently going deep on **Linux, Docker, Kubernetes, AWS, Terraform, and CI/CD**
-- 🚀 I ship full applications end-to-end — backends, APIs, data, and the glue between them
-- 🔬 Co-authoring research on **machine learning for network intrusion detection**
+-  Currently going deep on **Linux, Docker, Kubernetes, AWS, Terraform, and CI/CD**
+-  I ship full applications end-to-end — backends, APIs, data, and the glue between them
+-  Co-authoring research on **machine learning for network intrusion detection**
 
 ---
 
